@@ -11,14 +11,5 @@
  <BODY>
   <h1>test</h1>
   <h2>스터디입니다.</h2>
-  <div>
-	<ul>
-		<li>menu1</li>
-		<li>menu2</li>
-		<li>menu3</li>
-		<li>menu41</li>
-	</ul>
-  </div>
-
  </BODY>
 </HTML>
